@@ -1,6 +1,6 @@
 # Exploratory Data Analysis and Machine Learning Application on Credit Card Application Dataset
 
-This is an EDA exercise.
+This is an EDA exercise using Python.
 
 ## Objectives
 
